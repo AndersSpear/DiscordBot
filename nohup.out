@@ -1,0 +1,2 @@
+./bot.sh: 2: ./home/pi/projects/discord_bot/deploy-commands.js: not found
+./bot.sh: 4: ./home/pi/projects/discord_bot/nick_changer.js: not found
